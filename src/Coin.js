@@ -1,6 +1,6 @@
 import React from 'react'
-
-export const Coin = ({ name, image, symbol, price, volume, priceChange, marketcap }) => {
+import './Coin.css'
+export const Coin = ({ name, image, symbol, price, volume, priceChange,  marketcap }) => {
     return (
         <div className='coin-container' >
             <div className='coin-row'>
@@ -20,7 +20,7 @@ export const Coin = ({ name, image, symbol, price, volume, priceChange, marketca
 
                     }
                     <p className='coin-marketcap'>
-                        Mkt Cap: Rs.{marketcap.toLocaleString()}
+                        Rs.{marketcap.toLocaleString()}
                     </p>
                 </div>
             </div>
