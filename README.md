@@ -1,4 +1,4 @@
-# [Live Cryptocurrency](https://eager-nightingale-41bfc0.netlify.app/)
+# [Live Cryptocurrency](https://eager-nightingale-41bfc0.netlify.app/)(Demo)
 
 ### `npm start`
 
