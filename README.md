@@ -1,3 +1,7 @@
+<!--
+    Title: Live Cryptocurrency
+    Author: somerongit (Someron Bakuli) 
+-->
 # [Live Cryptocurrency](https://eager-nightingale-41bfc0.netlify.app/)(Demo)
 
 ### `npm start`
@@ -18,3 +22,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+<!--
+    Title: Live Cryptocurrency
+    Author: somerongit (Someron Bakuli) 
+-->
