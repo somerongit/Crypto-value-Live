@@ -6,9 +6,6 @@
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/project/Crypto1.png">
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/project/Crypto.png">
 
-### `npm start`
-
-### `npm run build`
 
 <!--
     Title: Live Cryptocurrency
